@@ -1,0 +1,6 @@
+server:
+  port: 8090
+app:
+  host: http://pastebox.alekseymg.ru
+  public_list_size: 10
+#  public_list_size: ${LIST_SIZE}
